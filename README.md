@@ -22,4 +22,4 @@ Para compilar e executar este programa, utilize os comandos abaixo no terminal d
   - Resultado esperado e obtido: Samuel com média 6.00 (Atingiu a meta) e Carlos com média 4.33 (Abaixo da meta). Média geral de 5.17 e Maior média sendo do Samuel.
 
 **Vídeo de Apresentação:**
-- [Link do vídeo no YouTube](COLE_AQUI_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE)
+- [Link do vídeo no YouTube](https://youtu.be/1i-oPVAoras)
